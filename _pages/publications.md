@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-# Publications
 
 **\*** Co-first author · **†** Corresponding author  
 
@@ -13,7 +11,7 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 
 ---
 
-### 2026
+## 2026
 
 **ASTSN: A Lightweight Ternary Spiking Neuron with Unified Dynamics**  
 **Boxuan Zhang**, Jiaxin Wang, Zhen Xu, Kuan Tao†  
@@ -26,7 +24,7 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 
 ---
 
-### 2025
+## 2025
 
 **Temporal Regularization Training: Unleashing the Potential of Spiking Neural Networks**  
 **Boxuan Zhang**, Zhen Xu, Kuan Tao†  
