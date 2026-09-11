@@ -10,6 +10,9 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "CV (Chinese)"
+    url: /files/CV.pdf
 
   # - title: "Talks"
   #   url: /talks/    
