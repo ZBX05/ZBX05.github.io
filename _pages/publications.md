@@ -22,6 +22,11 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 *Under review*, 2026  
 [Preprint](https://arxiv.org/abs/2601.15598)  
 
+**Spiking Neural Networks Predict Trial-level Fission Illusion from EEG Time-frequency Dynamics**  
+Haoping Yang\*, Jiaxin Wang\*, **Boxuan Zhang**, Ye Mao, Lizhong Chi†, Kuan Tao†  
+*Journal of Science in Sport and Exercise*, 2026  
+Accepted
+
 ---
 
 ## 2025
@@ -31,8 +36,8 @@ For a complete and up-to-date publication list, please see my [Google Scholar](h
 *Under review*, 2025  
 [Preprint](https://arxiv.org/abs/2506.19256)  
 
-**Application of artificial intelligence technology in the prevention of sports injury**  
+**Application of artificial intelligence technology in the prevention of sports injury** (Review Article)  
 **Boxuan Zhang**, Ke Zhou, Kuan Tao†  
-*Research on Sports Science and Health (in Chinese)*, review article, 2025  
+*Research on Sports Science and Health (in Chinese)*, 2025  
 [Paper](https://www.rtcmjournal.com/CN/10.3969/j.issn.2097-5457.2025.01.006)  
 <!-- [Paper](https://doi.org/10.3969/j.issn.2097-5457.2025.01.006) -->

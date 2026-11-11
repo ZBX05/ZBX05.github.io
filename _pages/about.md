@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Boxuan Zhang"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,21 @@ I'm a 3rd-year Master student at Beijing Sport University, supervised by Prof. [
 
 Education
 ======
-* M.S. in Data Science, Beijing Sport University, 2024-Now
-* B.S. in Computer Science, Beijing University of Technology, 2020-2024
+<!-- * M.S. in Data Science, Beijing Sport University, 2024-Now
+* B.S. in Computer Science, Beijing University of Technology, 2020-2024 -->
+<!-- * <div style="display:flex; justify-content:space-between;"> -->
+
+* <div style="display:grid; grid-template-columns:60px 1fr 180px;">
+  <span>M.S.</span>
+  <span>Data Science, Beijing Sport University</span>
+  <span>2024.09 – Now</span>
+</div>  
+
+* <div style="display:grid; grid-template-columns:60px 1fr 180px;">
+  <span>B.S.</span>
+  <span>Computer Science, Beijing University of Technology</span>
+  <span>2020.09 – 2024.06</span>
+</div>
 
 Contact me
 ======
