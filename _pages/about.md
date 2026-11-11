@@ -16,16 +16,14 @@ Education
 <!-- * <div style="display:flex; justify-content:space-between;"> -->
 
 * <div style="display:grid; grid-template-columns:60px 1fr 180px;">
-  <span>M.S.</span>
-  <span>Data Science, Beijing Sport University</span>
-  <span>2024.09 – Now</span>
-</div>  
+    <span>M.S.</span>
+    <span>Data Science, Beijing Sport University</span>
+    <span>2024.09 – Now</span></div>  
 
 * <div style="display:grid; grid-template-columns:60px 1fr 180px;">
-  <span>B.S.</span>
-  <span>Computer Science, Beijing University of Technology</span>
-  <span>2020.09 – 2024.06</span>
-</div>
+    <span>B.S.</span>
+    <span>Computer Science, Beijing University of Technology</span>
+    <span>2020.09 – 2024.06</span></div>  
 
 Contact me
 ======
